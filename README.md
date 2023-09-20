@@ -8,8 +8,9 @@
 
 Перед запуском приложения убедитесь, что вы создали файл .env со следующими переменными:
 
-`KAFKA_BOOTSTRAP_SERVERS=localhost:9092
- KAFKA_SUBSCRIBED_TOPICS=data-temperature,data-power,data-voltage`
+`KAFKA_BOOTSTRAP_SERVERS=localhost:9092`
+
+`KAFKA_SUBSCRIBED_TOPICS=data-temperature,data-power,data-voltage`
 
 
  ## Запуск приложения
